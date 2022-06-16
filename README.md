@@ -2,9 +2,9 @@
 
 <p align="center">
    <a>
-   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
-   <img align="center" height="150" width="150"src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif"/>
-   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+   <img height="250" width="250" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
+   <img align="center" height="200" width="200"src="https://media.giphy.com/media/oFvFtrhrmIFFe/giphy.gif"/>
+   <img height="250" width="250" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
    </a>
 </p>
 <h1>  <img src="https://tenor.com/bGoCQ.gif" width="20" /> Hii there 👋, It's Devanshu Shekhar</h1>
@@ -25,9 +25,9 @@
    </a>
  <p align="center">
    <a>
-<img align="center" height="150" width="150" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="230"/>
-<img align="center" height="350" width="350"  src="https://media.giphy.com/media/oFvFtrhrmIFFe/giphy.gif" width="600"> 
-<img align="center" height="150" width="150" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="230"/>
+<img align="center" height="250" width="250" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="330"/>
+<img align="center" height="250" width="250"  src="https://media.giphy.com/media/elrFAUtV7ZOH7TSPhF/giphy.gif" width="330"> 
+<img align="center" height="250" width="250" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="330"/>
  </a>
  </p>
  </p>
