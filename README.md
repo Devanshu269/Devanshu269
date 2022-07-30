@@ -12,14 +12,13 @@
  
    I am a B.Tech graduate from AMC Engineering College in Computer Science Engineering. I'm a software developer and gamer who loves building Web applications and loves to play online fps games.Currently, I'm doing my software developer training at Scaler.com. In my whole day most of the time, I solve DSA questions on Scaler.com, leetcode, etc but in my free time, I destroy people in online games.
 
-   ## About Me (Intro) ~
+   ## About Me
    <p align="center">
   <p align="left">
    <a>
     
    -  Skills: C++ / C / Java/ JS
-   - 🔭 I’m currently working on DSA. 
-   - 🌱 I’m currently learning React.
+   - 💞️ I’m Currently upskilling myself on DSA, LLD, HLD on full Stack (React + Java) from Scaler Academy.
    - 👯 I’m looking to collaborate on Open Source Contributions. 
    - 💬 Ask me about Problem-solving and DSA. 
   
