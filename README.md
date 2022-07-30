@@ -11,14 +11,7 @@
 <h1>  <img src="https://tenor.com/bGoCQ.gif" width="20" /> Hii there 👋, It's Devanshu Shekhar</h1>
  
    I am a B.Tech graduate from AMC Engineering College in Computer Science Engineering. I'm a software developer and gamer who loves building Web applications and loves to play online fps games.Currently, I'm doing my software developer training at Scaler.com. In my whole day most of the time, I solve DSA questions on Scaler.com, leetcode, etc but in my free time, I destroy people in online games.
-   <br>
- </p>
-   <p align="center">
-   <a href="https://leetcode.com/N1k0zY/" target="_blank">
-    <img title="N1k0zYl's LeetCode Stats" alt="N1k0zY's LeetCode Stats" src="https://leetcode.card.workers.dev/N1k0zY?theme=nord&font=source_code_pro&extension=activity" />
-  </a>
-</p>
-<br>
+
    ## About Me (Intro) ~
    <p align="center">
   <p align="left">
@@ -31,6 +24,14 @@
    - 💬 Ask me about Problem-solving and DSA. 
   
    </a>
+        <br>
+ </p>
+   <p align="center">
+   <a href="https://leetcode.com/N1k0zY/" target="_blank">
+    <img title="N1k0zYl's LeetCode Stats" alt="N1k0zY's LeetCode Stats" src="https://leetcode.card.workers.dev/N1k0zY?theme=nord&font=source_code_pro&extension=activity" />
+  </a>
+</p>
+<br>
  <p align="center">
    <a>
 <img align="center" height="250" width="250" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="330"/>
@@ -82,35 +83,4 @@
    <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/> -->
 </div>
 
-
-
-<!--<table>
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ayushsoni1010/ayushsoni1010/main/dino.gif" width="50.5%" height="197" > 
- <pre>
-----------------------------------------
-<span># Byee Byee Have a nice day!!</span>
-----------------------------------------
-----------------------------------------
-    ~`\   ^__^
-       \  (oo)\_______
-^^^^      (__)\ 0   0 )\  *
-^^   ^^^^     ||--0-w | \/    ^^^^ 
-  ^^^^^^     _||    _||  ^^^^
-  
-</pre>
-</table>
-<!-- adding goru(cow)(handmade cow)-->
-
-<!--
-For adding portfolio.
-
-### Visit my detailed [profile](https://drive.google.com/file/d/1_ks4MSCqJwOaIYi-wz1g-Bv0NB2By_7y/view?usp=sharing)
-for dino game
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ayushsoni1010/ayushsoni1010/main/dino.gif" width="48.5%" height="230" >
--->
-<!-- <p align="Center">
- <img src="https://emojis.slackmojis.com/emojis/images/1616110799/22173/bye.gif?1616110799" width="70" /><strong>  Bye-Bye  </strong><img src="https://emojis.slackmojis.com/emojis/images/1616110799/22173/bye.gif?1616110799" width="70" /> 
-</p>
-<br>
-<br> --> -->
   
