@@ -18,6 +18,7 @@
     <img title="N1k0zYl's LeetCode Stats" alt="N1k0zY's LeetCode Stats" src="https://leetcode.card.workers.dev/N1k0zY?theme=nord&font=source_code_pro&extension=activity" />
   </a>
 </p>
+<br>
    ## About Me (Intro) ~
    <p align="center">
   <p align="left">
@@ -107,9 +108,9 @@ For adding portfolio.
 for dino game
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ayushsoni1010/ayushsoni1010/main/dino.gif" width="48.5%" height="230" >
 -->
-<p align="Center">
+<!-- <p align="Center">
  <img src="https://emojis.slackmojis.com/emojis/images/1616110799/22173/bye.gif?1616110799" width="70" /><strong>  Bye-Bye  </strong><img src="https://emojis.slackmojis.com/emojis/images/1616110799/22173/bye.gif?1616110799" width="70" /> 
 </p>
 <br>
-<br> -->
+<br> --> -->
   
