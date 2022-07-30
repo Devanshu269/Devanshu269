@@ -7,9 +7,9 @@
    <img height="250" width="250" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
    </a>
 </p>
-   ![LeetCode Stats](https://leetcode.card.workers.dev/N1k0zY?theme=nord&font=source_code_pro&extension=activity)
+<br>
    <p align="center">
-   <a href="https://github.com/N1k0zY/LeetCode-Stats-Card" target="_blank">
+   <a href="https://leetcode.com/N1k0zY/" target="_blank">
     <img title="N1k0zYl's LeetCode Stats" alt="N1k0zY's LeetCode Stats" src="https://leetcode.card.workers.dev/N1k0zY?theme=nord&font=source_code_pro&extension=activity" />
   </a>
 </p>
