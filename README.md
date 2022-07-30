@@ -1,11 +1,12 @@
 <!-- ------------------------------------------------------------------------------------------------------------------------------- -->
-![LeetCode Stats](https://leetcode.card.workers.dev/N1k0zY?theme=nord&font=source_code_pro&extension=activity)
+
 <p align="center">
    <a>
    <img height="250" width="250" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
    <img align="center" height="200" width="200"src="https://media.giphy.com/media/oFvFtrhrmIFFe/giphy.gif"/>
    <img height="250" width="250" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
    </a>
+   ![LeetCode Stats](https://leetcode.card.workers.dev/N1k0zY?theme=nord&font=source_code_pro&extension=activity)
 </p>
 <h1>  <img src="https://tenor.com/bGoCQ.gif" width="20" /> Hii there 👋, It's Devanshu Shekhar</h1>
  
