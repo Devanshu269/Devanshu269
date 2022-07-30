@@ -6,18 +6,18 @@
    <img align="center" height="200" width="200"src="https://media.giphy.com/media/oFvFtrhrmIFFe/giphy.gif"/>
    <img height="250" width="250" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
    </a>
-</p>
-<br>
+
+
+<h1>  <img src="https://tenor.com/bGoCQ.gif" width="20" /> Hii there 👋, It's Devanshu Shekhar</h1>
+ 
+   I am a B.Tech graduate from AMC Engineering College in Computer Science Engineering. I'm a software developer and gamer who loves building Web applications and loves to play online fps games.Currently, I'm doing my software developer training at Scaler.com. In my whole day most of the time, I solve DSA questions on Scaler.com, leetcode, etc but in my free time, I destroy people in online games.
+   <br>
+ </p>
    <p align="center">
    <a href="https://leetcode.com/N1k0zY/" target="_blank">
     <img title="N1k0zYl's LeetCode Stats" alt="N1k0zY's LeetCode Stats" src="https://leetcode.card.workers.dev/N1k0zY?theme=nord&font=source_code_pro&extension=activity" />
   </a>
 </p>
-
-<h1>  <img src="https://tenor.com/bGoCQ.gif" width="20" /> Hii there 👋, It's Devanshu Shekhar</h1>
- 
-   I am a B.Tech graduate from AMC Engineering College in Computer Science Engineering. I'm a software developer and gamer who loves building Web applications and loves to play online fps games.Currently, I'm doing my software developer training at Scaler.com. In my whole day most of the time, I solve DSA questions on Scaler.com, leetcode, etc but in my free time, I destroy people in online games.
- 
    ## About Me (Intro) ~
    <p align="center">
   <p align="left">
@@ -83,8 +83,8 @@
 
 
 
-<table>
- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ayushsoni1010/ayushsoni1010/main/dino.gif" width="50.5%" height="197" > 
+<!--<table>
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ayushsoni1010/ayushsoni1010/main/dino.gif" width="50.5%" height="197" > 
  <pre>
 ----------------------------------------
 <span># Byee Byee Have a nice day!!</span>
@@ -111,5 +111,5 @@ for dino game
  <img src="https://emojis.slackmojis.com/emojis/images/1616110799/22173/bye.gif?1616110799" width="70" /><strong>  Bye-Bye  </strong><img src="https://emojis.slackmojis.com/emojis/images/1616110799/22173/bye.gif?1616110799" width="70" /> 
 </p>
 <br>
-<br>
+<br> -->
   
