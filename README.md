@@ -6,8 +6,14 @@
    <img align="center" height="200" width="200"src="https://media.giphy.com/media/oFvFtrhrmIFFe/giphy.gif"/>
    <img height="250" width="250" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
    </a>
-   ![LeetCode Stats](https://leetcode.card.workers.dev/N1k0zY?theme=nord&font=source_code_pro&extension=activity)
 </p>
+   ![LeetCode Stats](https://leetcode.card.workers.dev/N1k0zY?theme=nord&font=source_code_pro&extension=activity)
+   <p align="center">
+   <a href="https://github.com/N1k0zY/LeetCode-Stats-Card" target="_blank">
+    <img title="N1k0zYl's LeetCode Stats" alt="N1k0zY's LeetCode Stats" src="https://leetcode.card.workers.dev/N1k0zY?theme=nord&font=source_code_pro&extension=activity" />
+  </a>
+</p>
+
 <h1>  <img src="https://tenor.com/bGoCQ.gif" width="20" /> Hii there 👋, It's Devanshu Shekhar</h1>
  
    I am a B.Tech graduate from AMC Engineering College in Computer Science Engineering. I'm a software developer and gamer who loves building Web applications and loves to play online fps games.Currently, I'm doing my software developer training at Scaler.com. In my whole day most of the time, I solve DSA questions on Scaler.com, leetcode, etc but in my free time, I destroy people in online games.
