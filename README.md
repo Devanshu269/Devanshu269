@@ -1,6 +1,7 @@
 <!-- ------------------------------------------------------------------------------------------------------------------------------- -->
 
 <p align="center">
+   <a>![LeetCode Stats](https://leetcode.card.workers.dev/N1k0zY?theme=wtf&font=baloo&extension=activity)</a>
    <a>
    <img height="250" width="250" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
    <img align="center" height="200" width="200"src="https://media.giphy.com/media/oFvFtrhrmIFFe/giphy.gif"/>
