@@ -10,14 +10,20 @@
 
 <h1>  <img src="https://tenor.com/bGoCQ.gif" width="20" /> Hii there 👋, It's Devanshu Shekhar</h1>
  
-   I am a B.Tech graduate from AMC Engineering College in Computer Science Engineering. I'm a software developer and gamer who loves building Web applications and loves to play online fps games.Currently, I'm doing my software developer training at Scaler.com. In my whole day most of the time, I solve DSA questions on Scaler.com, leetcode, etc but in my free time, I destroy people in online games.
+  As a passionate Full Stack Software Engineer at Lowes India, I thrive on building impactful web applications and solving complex problems. My expertise spans across both front-end and back-end development, where I continuously refine my skills to create scalable and efficient solutions.
+
+When I'm not coding, you'll find me sharpening my problem-solving abilities through DSA challenges on platforms like Scaler and LeetCode. I believe in the power of constant learning, which not only strengthens my technical abilities but also fuels my personal growth and confidence.
+
+In my downtime, I unwind by diving into online FPS games, where I channel my strategic thinking and focus into "destroying" the competition. Whether it's coding or gaming, I approach every challenge with a relentless drive to improve and succeed.
+
+I'm always eager to explore new technologies and tackle innovative projects, as learning is a never-ending journey that opens doors to new opportunities.
 
    ## About Me
    <p align="center">
   <p align="left">
    <a>
     
-   -  Skills: C++ / C / Java/ JS
+   -  Skills: C++ / Java/ JS/ Spring/ React
    - 💞️ I’m Currently upskilling myself on DSA, LLD, HLD on full Stack (React + Java) from Scaler Academy.
    - 👯 I’m looking to collaborate on Open Source Contributions. 
    - 💬 Ask me about Problem-solving and DSA. 
@@ -68,8 +74,12 @@
 ## 💻 Tools and languages I work with
 
 <div align items="left">
-   <img src="https://img.icons8.com/color/48/000000/java.png"/>
-   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+   <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=000000"/>
+   <img src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000"/>
+   <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000"/>
+   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/>
+   <img src="https://img.icons8.com/?size=100&id=A6r5yddU9uA0&format=png&color=000000"/>
+   <img src="https://img.icons8.com/?size=100&id=QSjnrUKYMnxO&format=png&color=000000"/>
    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
